@@ -17,8 +17,11 @@ using System.Linq;
 using System.Linq.Expressions;
 #endif
 
-#if NET_2_0
+#if NET_2_0 && !PCL
 using CsvHelper.MissingFrom20;
+#else
+using System.Linq;
+using System.Linq.Expressions;
 #endif
 
 #if PCL
