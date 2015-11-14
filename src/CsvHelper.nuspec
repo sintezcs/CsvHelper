@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
-		<id>CsvHelper</id>
+		<id>CsvHelper-DNX</id>
 		<version>2.13.2.0</version>
 		<authors>Josh Close</authors>
 		<licenseUrl>https://raw.githubusercontent.com/sintezcs/CsvHelper/master/LICENSE.txt</licenseUrl>
